@@ -102,4 +102,6 @@ final class Greenhouse: ObservableObject {
         else { return }
         plants = decoded
     }
+
 }
+
